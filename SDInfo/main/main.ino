@@ -1,6 +1,6 @@
 #include "SDInfo.h"
 
-// Create the SD driver object using our class
+
 SDInfo card(PIN_CS);
 
 void setup() {
@@ -20,5 +20,5 @@ void setup() {
 }
 
 void loop() {
-    // Keep loop empty for clean execution
+
 }
